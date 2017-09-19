@@ -3,7 +3,7 @@
 	Copyright (C) 2001-2007  Miklos Szeredi <miklos@szeredi.hu>
 
 	This program can be distributed under the terms of the GNU GPL.
-	See the file COPYING.
+	See the file COPYING..
 */
 
 #define	FUSE_USE_VERSION 26
